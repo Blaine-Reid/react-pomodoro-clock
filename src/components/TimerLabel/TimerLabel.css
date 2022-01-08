@@ -1,0 +1,30 @@
+#timer-label-bar{
+  width:100%;
+  height:30%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: #1F060C;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+#timer-label{
+  font-family: 'digital-7';
+  border:3px solid #80102A;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  font-size: 4vw;
+  color: #fff;
+  width: 35%;
+  height: 60%;
+  background-color: black;
+
+}
+
